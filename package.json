@@ -1,22 +1,21 @@
 {
-    "name": "@dhis2/cli-helpers-template",
-    "version": "1.0.1",
-    "description": "Utilities for the processing of ",
-    "main": "index.js",
-    "repository": "https://github.com/dhis2/cli-helpers-template",
-    "author": "Austin McGee <austin@dhis2.org>",
-    "license": "BSD-3-Clause",
-    "dependencies": {
-        "@dhis2/cli-helpers-engine": "^1.4.2",
-        "chalk": "^2.4.2",
-        "fs-extra": "^8.1.0",
-        "handlebars": "^4.5.3",
-        "isbinaryfile": "^4.0.2"
-    },
-    "publishConfig": {
-        "access": "public"
-    },
-    "devDependencies": {
-        "@dhis2/cli-style": "^4.2.0"
-    }
+  "name": "@dhis2/cli-helpers-template",
+  "version": "1.0.1",
+  "description": "Utilities for the processing of ",
+  "main": "index.js",
+  "repository": "https://github.com/dhis2/cli-helpers-template",
+  "author": "Austin McGee <austin@dhis2.org>",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@dhis2/cli-helpers-engine": "^1.5.0",
+    "fs-extra": "^8.1.0",
+    "handlebars": "^4.5.3",
+    "isbinaryfile": "^4.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@dhis2/cli-style": "^4.2.0"
+  }
 }
