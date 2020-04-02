@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/dhis2/cli-helpers-template/compare/v1.0.2...v2.0.0) (2020-04-02)
+
+
+### chore
+
+* update node engine to >= 10 ([efa1a83](https://github.com/dhis2/cli-helpers-template/commit/efa1a8358c447b9a76f69e864fef46aaf9e3887e))
+
+
+### BREAKING CHANGES
+
+* Require Node version 10 and above.
+
 ## [1.0.2](https://github.com/dhis2/cli-helpers-template/compare/v1.0.1...v1.0.2) (2019-11-22)
 
 
