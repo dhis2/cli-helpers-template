@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/dhis2/cli-helpers-template/compare/v2.0.0...v2.0.1) (2020-11-06)
+
+
+### Bug Fixes
+
+* cut release to finish migration to jira ([859ec5f](https://github.com/dhis2/cli-helpers-template/commit/859ec5fdd563a7b7e9814fac61720d3c8f8fbc1b))
+
 # [2.0.0](https://github.com/dhis2/cli-helpers-template/compare/v1.0.2...v2.0.0) (2020-04-02)
 
 
